@@ -5,5 +5,11 @@ My name is Victor and I like Android hacking & Golang. Here you find some inform
 - 💬 Ask me about bug bounty and Android hacking
 - 📫 How to reach me: [Telegram](https://t.me/iSnipe)
 
----
-  ![Snake animation](https://github.com/i5nipe/i5nipe/blob/output/github-contribution-grid-snake.svg)
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"> 
+</div>
+
+
+![Snake animation](https://github.com/i5nipe/i5nipe/blob/output/github-contribution-grid-snake.svg)
