@@ -4,3 +4,6 @@ My name is Victor and I like Android hacking & Golang. Here you find some inform
 - 🌱 I’m currently reading OWASP Mobile Security Testing Guide (MSTG)
 - 💬 Ask me about bug bounty and Android hacking
 - 📫 How to reach me: [Telegram](https://t.me/iSnipe)
+
+---
+  ![Snake animation](https://github.com/i5nipe/i5nipe/blob/output/github-contribution-grid-snake.svg)
