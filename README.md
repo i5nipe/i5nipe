@@ -17,5 +17,5 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
+background: url('https://github.com/i5nipe/i5nipe/blob/main/cover.png?raw=true');
 "]{}
